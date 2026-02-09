@@ -157,90 +157,21 @@ if ('IntersectionObserver' in window) {
 const projects = [
     {
         number: '01',
-        title: 'HyPrism',
+        title: 'Example',
         tech: 'go',
-        description: 'A multiplatform Hytale launcher with mod management and more.',
-        github: 'https://github.com/Aarav2709/Hyprism',
-        liveUrl: 'https://yyyumeniku.github.io/hyprism-site/',
+        description: 'Blablabla',
+        github: 'https://github.com/slayzbs/',
+        liveUrl: 'https://',
         stars: 456
     },
     {
         number: '02',
         title: 'Needlelight',
         tech: 'c#, python',
-        description: 'Needlelight refines my original Lumafly assistant with faster performance, a streamlined UI, and improved cross-platform tooling.',
-        github: 'https://github.com/Aarav2709/Needlelight',
+        description: 'Blablabla',
+        github: 'https://github.com/slayzbs/',
         stars: 54
     },
-    {
-        number: '03',
-        title: 'CyberQuestJR',
-        tech: 'react, fastapi, typescript',
-        description: 'A Website for Students between 13-18, which teaches them about how to stay safe online through games, and quizzes.',
-        github: 'https://github.com/Aarav2709/CyberQuestJR',
-        liveUrl: 'https://cyberquestjr.vercel.app/',
-        stars: 4
-    },
-    {
-        number: '04',
-        title: 'Fun Run 2: Reborn',
-        tech: 'lua, solar2d',
-        description: 'A complete enhanced remake of the classic multiplayer racing game, rebuilt from scratch using Solar2D. Features local multiplayer, character progression, power-ups, and modern enhancements while preserving the original gameplay.',
-        github: 'https://github.com/Aarav2709/FR2-Reborn',
-        stars: 8
-    },
-    {
-        number: '05',
-        title: 'Fun Run 1: Replayed',
-        tech: 'lua, solar2d',
-        description: 'A fully reimagined version of Fun Run 1, built from the ground up in Solar2D. Brings back the chaotic fun of the original with modern enhancements, rewritten mechanics, and online multiplayer capabilities.',
-        github: 'https://github.com/Aarav2709/FR1-Replayed',
-        stars: 4
-    },
-    {
-        number: '06',
-        title: 'KubeTimr',
-        tech: 'typescript, react, vite',
-        description: 'KubeTimr is a keyboard-first, offline-first cube timer built for serious speedcubers, featuring WCA inspection, seeded scrambles, rich stats, and training splits.',
-        github: 'https://github.com/Aarav2709/KubeTimr',
-        liveUrl: 'https://kubetimr.vercel.app',
-        stars: 3
-    },
-    {
-        number: '07',
-        title: 'OddEven Singleplayer',
-        tech: 'python',
-        description: 'A fun, interactive terminal-based game where you challenge a computer opponent in a thrilling game of odd-even cricket. Features dark/light mode, rank progression, achievements, and smart AI.',
-        github: 'https://github.com/Aarav2709/OddEven-SP',
-        liveUrl: 'https://oddevensp.vercel.app',
-        stars: 4
-    },
-    {
-        number: '08',
-        title: 'ProdTab',
-        tech: 'javascript, html, css',
-        description: 'ProdTab — a lightweight product tracking and journaling web app to log product ideas, releases, and view trends over time.',
-        github: 'https://github.com/Aarav2709/ProdTab',
-        stars: 3
-    },
-    {
-        number: '09',
-        title: 'AarusPlatformer',
-        tech: 'c, typescript, cmake, javascript, shell, python',
-        description: 'A platformer game prototype built as part of my game development experiments.',
-        github: 'https://github.com/Aarav2709/AarusPlatformer',
-        stars: 3
-    },
-    {
-        number: '10',
-        title: 'Typeconomy',
-        tech: 'react, vite',
-        description: 'A clicker game where you type words instead of clicking! Boost your typing skills, earn money, and unlock powerful upgrades to automate your economy—all through typing.',
-        github: 'https://github.com/Nathan5471/typeconomy',
-        liveUrl: 'https://typeconomy.vercel.app/',
-        stars: 14
-    }
-];
 
 /* ==========================================
    RENDER PROJECTS
