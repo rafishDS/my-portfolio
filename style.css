@@ -523,7 +523,7 @@ input, textarea, select {
     font-size: var(--hero-size);
     letter-spacing: -0.04em;
     color: var(--primary-text);
-    text-transform: none;
+    text-transform: none !important;
     margin: 0;
     font-weight: 900;
     line-height: 1;
